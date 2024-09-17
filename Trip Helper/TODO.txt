@@ -1,0 +1,2 @@
+Road Trip Planner: Suggests scenic routes and points of interest for road trips.
+Travel Planning App
